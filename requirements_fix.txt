@@ -1,0 +1,9 @@
+python-dotenv
+tomlkit
+colorama
+starlette
+packaging
+starlette-admin==0.13.0rc2
+uvicorn
+sqlalchemy
+itsdangerous
