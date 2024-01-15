@@ -1,0 +1,8 @@
+python-dotenv
+tomlkit
+colorama
+starlette
+starlette-admin
+uvicorn
+sqlalchemy
+itsdangerous
